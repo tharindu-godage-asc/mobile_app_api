@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "author": "Robert Martin",
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "Design Patterns",
+      "author": "GoF",
+      "available": true
+    }
+  ]
+}
