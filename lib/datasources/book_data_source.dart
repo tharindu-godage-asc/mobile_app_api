@@ -7,7 +7,7 @@ class BookDataSource {
   final ApiClient _apiClient;
 
   Future<List<Book>> fetchBooks() async {
-    final data = await _apiClient.getList('/Books');
+    final data = await _apiClient.getList('/books');
     return data
         .map((json) => Book.fromJson(json as Map<String, dynamic>))
         .toList();

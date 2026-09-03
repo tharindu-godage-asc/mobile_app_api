@@ -11,6 +11,186 @@
       "title": "Design Patterns",
       "author": "GoF",
       "available": true
+    },
+    {
+      "id": 3,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "available": true
+    },
+    {
+      "id": 4,
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "available": false
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "available": true
+    },
+    {
+      "id": 6,
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "available": true
+    },
+    {
+      "id": 7,
+      "title": "Code Complete",
+      "author": "Steve McConnell",
+      "available": false
+    },
+    {
+      "id": 8,
+      "title": "Domain-Driven Design",
+      "author": "Eric Evans",
+      "available": true
+    },
+    {
+      "id": 9,
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "available": true
+    },
+    {
+      "id": 10,
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "available": true
+    },
+    {
+      "id": 11,
+      "title": "Structure and Interpretation of Computer Programs",
+      "author": "Harold Abelson",
+      "available": false
+    },
+    {
+      "id": 12,
+      "title": "The Art of Computer Programming",
+      "author": "Donald Knuth",
+      "available": true
+    },
+    {
+      "id": 13,
+      "title": "Head First Design Patterns",
+      "author": "Eric Freeman",
+      "available": true
+    },
+    {
+      "id": 14,
+      "title": "Working Effectively with Legacy Code",
+      "author": "Michael Feathers",
+      "available": true
+    },
+    {
+      "id": 15,
+      "title": "Test Driven Development",
+      "author": "Kent Beck",
+      "available": false
+    },
+    {
+      "id": 16,
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma",
+      "available": true
+    },
+    {
+      "id": 17,
+      "title": "Continuous Delivery",
+      "author": "Jez Humble",
+      "available": true
+    },
+    {
+      "id": 18,
+      "title": "Site Reliability Engineering",
+      "author": "Betsy Beyer",
+      "available": true
+    },
+    {
+      "id": 19,
+      "title": "Database Design for Mere Mortals",
+      "author": "Michael J. Hernandez",
+      "available": false
+    },
+    {
+      "id": 20,
+      "title": "Grokking Algorithms",
+      "author": "Aditya Bhargava",
+      "available": true
+    },
+    {
+      "id": 21,
+      "title": "Clean Architecture",
+      "author": "Robert Martin",
+      "available": true
+    },
+    {
+      "id": 22,
+      "title": "The Clean Coder",
+      "author": "Robert Martin",
+      "available": false
+    },
+    {
+      "id": 23,
+      "title": "Patterns of Enterprise Application Architecture",
+      "author": "Martin Fowler",
+      "available": true
+    },
+    {
+      "id": 24,
+      "title": "Design Systems",
+      "author": "Alla Kholmatova",
+      "available": true
+    },
+    {
+      "id": 25,
+      "title": "Programming Pearls",
+      "author": "Jon Bentley",
+      "available": true
+    },
+    {
+      "id": 26,
+      "title": "The Phoenix Project",
+      "author": "Gene Kim",
+      "available": false
+    },
+    {
+      "id": 27,
+      "title": "Soft Skills",
+      "author": "John Sonmez",
+      "available": true
+    },
+    {
+      "id": 28,
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "available": true
+    },
+    {
+      "id": 29,
+      "title": "Design of Everyday Things",
+      "author": "Don Norman",
+      "available": true
+    },
+    {
+      "id": 30,
+      "title": "Peopleware",
+      "author": "Tom DeMarco",
+      "available": false
+    },
+    {
+      "id": 31,
+      "title": "The Art of Readable Code",
+      "author": "Dustin Boswell",
+      "available": true
+    },
+    {
+      "id": 32,
+      "title": "Fluent Python",
+      "author": "Luciano Ramalho",
+      "available": true
     }
   ]
 }

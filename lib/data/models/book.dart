@@ -10,7 +10,7 @@ class Book {
 
   factory Book.fromJson(Map<String, dynamic> json) {
     return Book(
-      id: json['id'] as int,
+      id: int.parse(json['id'].toString()),
       title: json['title'] as String? ?? '',
       description: json['description'] as String? ?? '',
       pageCount: json['pageCount'] as int? ?? 0,
